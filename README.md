@@ -33,7 +33,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone 
+git clone https://github.com/shalinikumari50/HealthBuddy.git
 ```
 2. Install NPM packages 
 ```sh
