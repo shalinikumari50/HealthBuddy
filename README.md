@@ -5,9 +5,6 @@
 ## About The Project
 
 <b>Health Buddy</b> is a platform where one who don't have any information about covid or can't type over google to know about it, he/she can simply ask any question about <b>COVID-19</b>.
-<p align="center">
- //<img src="assets/images/ty.PNG" alt="features" >
-</p>
 
 ### Built With
 
